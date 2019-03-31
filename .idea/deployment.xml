@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="devops_plus_deploy">
+    <serverData>
+      <paths name="django_singlepage_with_vue">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/application/django_singlepage_with_vue" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
